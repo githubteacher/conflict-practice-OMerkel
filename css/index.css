@@ -2,24 +2,21 @@ body{
 
 	margin:0;
 	background: #eee;
-
 	font-family: sans-serif;
 	font-size: 22px;
 	font-weight: 100;
 	line-height: 30px;
-
 	min-width:1040px;
 	background-repeat: no-repeat;
-
 	overflow-x:hidden;
-
 }
 
 a{
-	color: #999;
+	color: #999999;
 }
+
 a:hover{
-	color: #ddd;
+	color: #dddddd;
 }
 
 #intro_container, #outro_container{
@@ -108,11 +105,11 @@ span[cartoon]:hover{
 
 }
 #cartoon_arrow{
-	
+
 	display: block;
 
-	width: 0; 
-	height: 0; 
+	width: 0;
+	height: 0;
 	border-left: 10px solid transparent;
 	border-right: 10px solid transparent;
 	border-bottom: 20px solid #fff;
@@ -123,11 +120,11 @@ span[cartoon]:hover{
 
 }
 #cartoon_arrow[flipped=true]{
-	
+
 	display: block;
 
-	width: 0; 
-	height: 0; 
+	width: 0;
+	height: 0;
 	border-left: 10px solid transparent;
 	border-right: 10px solid transparent;
 	border-bottom: 20px solid #fff;
