@@ -2,33 +2,21 @@ body{
 
 	margin:0;
 	background: #eee;
-
 	font-family: sans-serif;
 	font-size: 22px;
 	font-weight: 100;
 	line-height: 30px;
-
 	min-width:1040px;
 	background-repeat: no-repeat;
-
 	overflow-x:hidden;
-
 }
 
-a {
-<<<<<<< HEAD
-	color: #000;
-}
-
-a:hover{
-	color: #fff;
-=======
+a{
 	color: #999999;
 }
 
 a:hover{
 	color: #dddddd;
->>>>>>> master
 }
 
 #intro_container, #outro_container{
